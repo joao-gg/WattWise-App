@@ -1,0 +1,2 @@
+# WattWise-App
+PROJETO EM ANDAMENTO
