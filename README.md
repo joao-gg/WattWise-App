@@ -1,2 +1,2 @@
 # WattWise-App
-PROJETO EM ANDAMENTO
+Projeto em andamento, lançamento em breve
